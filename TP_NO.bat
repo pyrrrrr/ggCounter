@@ -1,0 +1,1 @@
+python3 updateCounter.py TP 0

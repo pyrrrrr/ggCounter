@@ -1,0 +1,1 @@
+python3 updateCounter.py ZT 0
